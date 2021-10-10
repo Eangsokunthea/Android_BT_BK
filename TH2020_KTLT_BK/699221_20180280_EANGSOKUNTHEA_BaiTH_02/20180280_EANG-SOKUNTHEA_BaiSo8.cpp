@@ -12,6 +12,8 @@ bool compare(vector<int> a, vector<int> b){
 }
 
 int main() {
+	printf("HOVATEN: EANG SOKUNTHEA\n");
+    printf("MSSV: 20180280\n");
     int val1, val2;
     cin >> val1 >> val2;
     vector< vector<int> > a = {

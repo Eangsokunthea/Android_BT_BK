@@ -11,6 +11,8 @@ double sigmoid_slow(double x)
 
 int main()
 {
+	printf("HOTEN : EANG SOKUNTHEA\n");
+	printf("MSSV : 20180280\n");
     double xval;
     cin >> xval;
     printf("%.2f \n", sigmoid_slow(xval));
