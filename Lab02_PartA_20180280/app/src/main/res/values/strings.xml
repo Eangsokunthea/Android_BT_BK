@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab02_Part A_20180280</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_count">Count</string>
+    <string name="count">0</string>
+    <string name="toast_message">Hello Toast!</string>
+</resources>
